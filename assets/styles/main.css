@@ -1,0 +1,87 @@
+/* MY FAILURE SECTION */
+
+.my-failure-box {
+    margin-top: 150px;
+    margin-left: 228px;
+    margin-right: 228px;
+    display: flex;
+}
+
+.my-failure-info {
+    padding-top: 25%;
+    padding-left: 82px;
+}
+
+.my-failure-title {
+    color: var(--Dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.my-failure-description {
+    color: var(--Dark-02, #444343);
+    padding-top: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.my-failure-list {
+    list-style: none;
+    padding-top: 16px;
+    color: var(--Dark-02, #444343);
+    font-size: 16px;
+    line-height: 26px; /* 162.5% */
+}
+
+.my-failure-list li:before {
+    content: "✓";
+    color: #16d887;
+    font-weight: 400;
+    padding-right: 7px;
+}
+
+/* MY PLAN SECTION */
+
+.my-plan-section-title {
+    color: var(--Dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 150px;
+}
+
+.my-plan-container {
+    margin-top: 50px;
+    display: flex;
+    padding-left: 150px;
+    gap: 99px;
+    
+}
+.my-plan-box {
+    text-align: center;
+}
+
+.my-plan-title {
+    color: var(--Dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.plan-description {
+    color: var(--Dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

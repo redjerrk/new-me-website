@@ -1,0 +1,38 @@
+
+
+.header-section {
+    background-image: url(../images/banner/banner3.png);
+    background-size: cover;
+    background-color: aquamarine;
+}
+
+.header-container {
+    text-align: right;
+    padding: 216px 230px 166px 845px;
+}
+
+.header-title {
+    color: #fff;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.header-description {
+    color: #fff;
+    font-size: 16px;
+    text-align: right;
+    line-height: 26px;
+    margin-top: 24px;
+}
+
+.contact-us-btn {
+    border-radius: 5px;
+    border: none;
+    background: #fff;
+    margin-top: 32px;
+    padding: 20px 25px;
+    color: #005fac;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+}
