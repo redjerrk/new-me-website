@@ -1,0 +1,75 @@
+.footer {
+    background: var(--Dark-01, #151414);
+    display: flex;
+    gap: 290px;
+    padding: 130px 200px;
+    margin-top: 150px;
+}
+
+.future-title {
+    color: #f8f8f8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.future-para1 {
+    margin-top: 16px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.future-para2 {
+    color: #fff;
+    margin-top: 10px;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+
+.icon {
+    margin-top: 32px;
+    margin-right: 10px;
+}
+
+.subscribe {
+    color: #fff;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.sub-input {
+    background: var(--Dark-01, #151414);
+    padding: 22px 120px 22px 21px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: var(--Dark-07, #f3f3f3);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 16px;
+}
+.sub-button {
+    color: #fff;
+    font-family: Work Sans;
+    padding: 20px 36px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 8px;
+    background: #005fac;
+    margin-top: 16px;
+}
